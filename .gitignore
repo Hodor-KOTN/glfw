@@ -22,6 +22,12 @@ MinSizeRel
 RelWithDebInfo
 *.opensdf
 
+# Codelite
+*.workspace
+*.project
+*.mk
+GLFW.txt
+
 # Xcode clutter
 GLFW.build
 GLFW.xcodeproj
